@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background: rgb(227, 63, 251);
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    width: 200px;
+    height: 150px;
+}
